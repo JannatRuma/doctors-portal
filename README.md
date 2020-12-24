@@ -2,8 +2,6 @@
 
 A full-stack responsive web app where patient can pick a date and fix an appointment with a doctor. Doctor can review all his patients appointments. Patient can see his appointments date wise in dashboard. <br/>
 
-## [Live Site](doctors-portall.web.app "Doctors Portal")
-
 <br/>
 
 ## Features
@@ -19,8 +17,3 @@ A full-stack responsive web app where patient can pick a date and fix an appoint
   <br/>
   <br/>
 
-> ### [Resume]('https://drive.google.com/file/d/1d6OfaYXPL4u8YPYlBqk1Iay-Vf7Bh8jJ/view?usp=sharing')
-
-<br/>
-
-> ### [Linkedin]("https://www.linkedin.com/in/chistyhimel/")
